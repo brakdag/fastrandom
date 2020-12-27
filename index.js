@@ -2,7 +2,7 @@
 //  Random Application Logistic 
 //  Stored random
 
-const MEM_SIZE = 0xFFFF
+const MEM_SIZE = 0xFFFFF
 var m = []
 var x = 0.8
 var i = 0

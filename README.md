@@ -16,7 +16,7 @@ console.log(rand.random())
 ```
 ## Run Example.
 
-```javascript
+```ssh
 node test.js
 ```
 
