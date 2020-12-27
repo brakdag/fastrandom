@@ -14,4 +14,10 @@ se genera la matriz de números aleatorios.
 var rand = require('./fastrandom')
 console.log(rand.random())
 ```
+## Run Example.
+
+```javascript
+node test.js
+```
+
 
