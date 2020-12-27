@@ -1,0 +1,2 @@
+# fastrandom
+fastrandom aplication logistic
