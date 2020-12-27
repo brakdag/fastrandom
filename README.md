@@ -11,7 +11,7 @@ se genera la matriz de números aletorios.
 ## Usage
 
 ```javascript
-var d = require('./fastrandom')
-console.log(d.random())
+var rand = require('./fastrandom')
+console.log(rand.random())
 ```
 
